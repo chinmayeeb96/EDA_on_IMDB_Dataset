@@ -1,1 +1,2 @@
-# EDA_on_IMDB_Datasethttps://drive.google.com/file/d/1fdUJjyOpZcfQOYyQlFVosanys9GlYxvT/view?usp=sharing
+# EDA_on_IMDB_Dataset
+EDA analysis on the IMDB dataset.
